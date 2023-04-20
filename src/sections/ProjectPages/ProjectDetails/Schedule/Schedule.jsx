@@ -11,12 +11,12 @@ const Schedule = () => {
                         <tr className="table-header">
                             <th>Mint</th>
                             <th>Opens</th>
-                            <th>Closes</th> 
+                           
                         </tr>
                         <tr>
                             <td>Public/Private</td>
-                            <td>25.04.2024 08:00:00 UTC</td>
-                            <td>26.04.2024 04:00:00 UTC</td> 
+                            <td>01.05.2023 at 4:00 pm UTC</td>
+                           
                         </tr>
     
                     </tbody>
