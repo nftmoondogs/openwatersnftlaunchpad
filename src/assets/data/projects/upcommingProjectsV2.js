@@ -62,6 +62,44 @@ export default {
             },
           ],
         },
+
+        {
+          thumb: projectThumb1,
+          title: "CoreTokyo",
+          price: "0.69 CORE",
+          saleEnd: "11",
+          coinIcon: coinIcon1,
+          projectDetails: [
+            {
+              title: "Total Supply",
+              text: "9000",
+            },
+            {
+              title: "Mint Date",
+              text: "1 May 2023",
+            },
+            {
+              title: "Mint Time",
+              text: "4 pm UTC",
+            },
+        
+          ],
+          socialLinks: [
+            {
+              icon: telegram,
+              url: "https://t.me/CoreTokyoGarden",
+            },
+           
+            {
+              icon: medium,
+              url: "https://medium.com/@coretokyo",
+            },
+            {
+              icon: twitter,
+              url: "https://twitter.com/coretokyonft",
+            },
+          ],
+        },
       ],
     },
     //  tab item
@@ -69,6 +107,45 @@ export default {
       projectStatus: "Upcomming",
       projects: [
         // project
+
+        {
+          thumb: projectThumb1,
+          title: "CoreTokyo",
+          price: "18 WOOF",
+          saleEnd: "10",
+          coinIcon: coinIcon2,
+          projectDetails: [
+            {
+              title: "Total Supply",
+              text: "9000",
+            },
+            {
+              title: "Mint Date",
+              text: "30 April 2023",
+            },
+            {
+              title: "Mint Time",
+              text: "4 pm UTC",
+            },
+        
+          ],
+          socialLinks: [
+            {
+              icon: telegram,
+              url: "https://t.me/CoreTokyoGarden",
+            },
+          
+            {
+              icon: medium,
+              url: "https://medium.com/@coretokyo",
+            },
+            {
+              icon: twitter,
+              url: "https://twitter.com/coretokyonft",
+            },
+          ],
+        },
+
         {
           thumb: projectThumb1,
           title: "CoreTokyo",
