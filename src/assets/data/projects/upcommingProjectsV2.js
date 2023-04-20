@@ -72,8 +72,8 @@ export default {
         {
           thumb: projectThumb1,
           title: "CoreTokyo",
-          price: "18 WOOF",
-          saleEnd: "10",
+          price: "0.69 CORE",
+          saleEnd: "11",
           coinIcon: coinIcon1,
           projectDetails: [
             {
@@ -82,7 +82,7 @@ export default {
             },
             {
               title: "Mint Date",
-              text: "30 April 2023",
+              text: "1 May 2023",
             },
             {
               title: "Mint Time",
