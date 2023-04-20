@@ -28,9 +28,9 @@ export default {
         {
           thumb: projectThumb1,
           title: "CoreTokyo",
-          price: "20 WOOF",
-          saleEnd: "05",
-          coinIcon: coinIcon1,
+          price: "18 WOOF",
+          saleEnd: "10",
+          coinIcon: coinIcon2,
           projectDetails: [
             {
               title: "Total Supply",
@@ -38,7 +38,7 @@ export default {
             },
             {
               title: "Mint Date",
-              text: "20 April 2023",
+              text: "30 April 2023",
             },
             {
               title: "Mint Time",
@@ -49,12 +49,9 @@ export default {
           socialLinks: [
             {
               icon: telegram,
-              url: "#",
+              url: "https://t.me/CoreTokyoGarden",
             },
-            {
-              icon: discord,
-              url: "#",
-            },
+          
             {
               icon: medium,
               url: "https://medium.com/@coretokyo",
@@ -75,8 +72,8 @@ export default {
         {
           thumb: projectThumb1,
           title: "CoreTokyo",
-          price: "20 WOOF",
-          saleEnd: "05",
+          price: "18 WOOF",
+          saleEnd: "10",
           coinIcon: coinIcon1,
           projectDetails: [
             {
@@ -85,7 +82,7 @@ export default {
             },
             {
               title: "Mint Date",
-              text: "20 April 2023",
+              text: "30 April 2023",
             },
             {
               title: "Mint Time",
@@ -96,12 +93,9 @@ export default {
           socialLinks: [
             {
               icon: telegram,
-              url: "#",
+              url: "https://t.me/CoreTokyoGarden",
             },
-            {
-              icon: discord,
-              url: "#",
-            },
+           
             {
               icon: medium,
               url: "https://medium.com/@coretokyo",
