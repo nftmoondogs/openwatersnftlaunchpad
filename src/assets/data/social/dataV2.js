@@ -16,6 +16,10 @@ const data = [
     icon: twitter,
     url: "https://twitter.com/coretokyonft",
   },
+  {
+    icon: telegram,
+    url: "https://t.me/CoreTokyoGarden",
+  },
 ];
 
 export default data;

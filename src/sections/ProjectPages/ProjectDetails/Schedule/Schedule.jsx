@@ -15,7 +15,7 @@ const Schedule = () => {
                         </tr>
                         <tr>
                             <td>Public/Private</td>
-                            <td>01.05.2023 at 4:00 pm UTC</td>
+                            <td>30.04.2023 at 5:00 pm UTC</td>
                            
                         </tr>
     

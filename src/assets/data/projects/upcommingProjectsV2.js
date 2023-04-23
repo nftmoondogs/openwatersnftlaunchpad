@@ -42,7 +42,7 @@ export default {
             },
             {
               title: "Mint Time",
-              text: "4 pm UTC",
+              text: "5 pm UTC",
             },
         
           ],
@@ -80,7 +80,7 @@ export default {
             },
             {
               title: "Mint Time",
-              text: "4 pm UTC",
+              text: "5 pm UTC",
             },
         
           ],
@@ -125,7 +125,7 @@ export default {
             },
             {
               title: "Mint Time",
-              text: "4 pm UTC",
+              text: "5 pm UTC",
             },
         
           ],
@@ -163,7 +163,7 @@ export default {
             },
             {
               title: "Mint Time",
-              text: "4 pm UTC",
+              text: "5 pm UTC",
             },
         
           ],
