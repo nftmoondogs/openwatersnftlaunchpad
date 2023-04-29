@@ -28,8 +28,8 @@ export default {
         {
           thumb: projectThumb1,
           title: "CoreTokyo",
-          price: "18 WOOF",
-          saleEnd: "2",
+          price: "28 WOOF",
+          saleEnd: "1",
           coinIcon: coinIcon2,
           projectDetails: [
             {
@@ -67,7 +67,7 @@ export default {
           thumb: projectThumb1,
           title: "CoreTokyo",
           price: "0.69 CORE",
-          saleEnd: "3",
+          saleEnd: "2",
           coinIcon: coinIcon1,
           projectDetails: [
             {
@@ -111,8 +111,8 @@ export default {
         {
           thumb: projectThumb1,
           title: "CoreTokyo",
-          price: "18 WOOF",
-          saleEnd: "2",
+          price: "28 WOOF",
+          saleEnd: "1",
           coinIcon: coinIcon2,
           projectDetails: [
             {
@@ -150,7 +150,7 @@ export default {
           thumb: projectThumb1,
           title: "CoreTokyo",
           price: "0.69 CORE",
-          saleEnd: "3",
+          saleEnd: "2",
           coinIcon: coinIcon1,
           projectDetails: [
             {

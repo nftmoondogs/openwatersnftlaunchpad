@@ -44,7 +44,7 @@ const ProjectInfo = () => {
                 <h3>
                   <a>CoreTokyo</a>
                 </h3>
-                <div className="dsc">Mint PRICE = 18 WOOF </div> 
+                <div className="dsc">Mint PRICE = 28 WOOF </div> 
               
               </div>
             </div>
