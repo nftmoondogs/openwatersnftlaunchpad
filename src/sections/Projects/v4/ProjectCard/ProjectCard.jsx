@@ -39,7 +39,7 @@ const ProjectCard = ({
 
           <div className="heading-title">
 
-            <h4>{saleEnd} Days Left</h4>
+            <h4>{saleEnd}</h4>
         
           </div>
           </Link>
