@@ -44,7 +44,7 @@ const ProjectInfo = () => {
                 <h3>
                   <a>CoreTokyo</a>
                 </h3>
-                <div className="dsc">Mint PRICE = 5000 4Token </div> 
+                <div className="dsc">Mint PRICE = 0.69 CORE </div> 
               
               </div>
             </div>
@@ -55,8 +55,8 @@ const ProjectInfo = () => {
          
           </div>
           <div className="targeted-raise">
-            <div className="seles-end-text">Mint Starts At</div>
-            <div className="seles-end-text">5 pm UTC Today🔥</div>
+            <div className="seles-end-text">Mint Started🔥</div>
+           
         
           </div>
         </div>
