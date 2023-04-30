@@ -56,7 +56,7 @@ const ProjectInfo = () => {
           </div>
           <div className="targeted-raise">
             <div className="seles-end-text">Mint Starts In</div>
-            <Countdown date="2023-04-30T22:30:03" renderer={CountdownRender} />
+            <Countdown date="2023-04-30T22:29:00" renderer={CountdownRender} />
         
           </div>
         </div>
