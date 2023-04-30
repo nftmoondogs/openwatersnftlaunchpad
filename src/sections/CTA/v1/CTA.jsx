@@ -8,7 +8,7 @@ const CTA = () => {
       <div className="container">
         <div className="cta-area text-center">
           <h2 className="title">
-            Apply for you NFT project <br />
+            Apply for your NFT project <br />
             Listing
           </h2>
           <div className="dsc">
