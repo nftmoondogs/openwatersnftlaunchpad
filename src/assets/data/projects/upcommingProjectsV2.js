@@ -30,7 +30,7 @@ export default {
           title: "CoreTokyo",
           price: "0.69 CORE",
           saleEnd: "Today🔥",
-          coinIcon: coinIcon2,
+          coinIcon: coinIcon1,
           projectDetails: [
             {
               title: "Total Supply",
@@ -63,43 +63,7 @@ export default {
           ],
         },
 
-        {
-          thumb: projectThumb1,
-          title: "CoreTokyo",
-          price: "0.69 CORE",
-          saleEnd: "1 Days Left",
-          coinIcon: coinIcon1,
-          projectDetails: [
-            {
-              title: "Total Supply",
-              text: "9000",
-            },
-            {
-              title: "Mint Date",
-              text: "1 May 2023",
-            },
-            {
-              title: "Mint Time",
-              text: "5 pm UTC",
-            },
         
-          ],
-          socialLinks: [
-            {
-              icon: telegram,
-              url: "https://t.me/CoreTokyoGarden",
-            },
-           
-            {
-              icon: medium,
-              url: "https://medium.com/@coretokyo",
-            },
-            {
-              icon: twitter,
-              url: "https://twitter.com/coretokyonft",
-            },
-          ],
-        },
       ],
     },
     //  tab item
@@ -113,7 +77,7 @@ export default {
           title: "CoreTokyo",
           price: "0.69 CORE",
           saleEnd: "Today🔥",
-          coinIcon: coinIcon2,
+          coinIcon: coinIcon1,
           projectDetails: [
             {
               title: "Total Supply",
@@ -146,43 +110,7 @@ export default {
           ],
         },
 
-        {
-          thumb: projectThumb1,
-          title: "CoreTokyo",
-          price: "0.69 CORE",
-          saleEnd: "1 Days Left",
-          coinIcon: coinIcon1,
-          projectDetails: [
-            {
-              title: "Total Supply",
-              text: "9000",
-            },
-            {
-              title: "Mint Date",
-              text: "1 May 2023",
-            },
-            {
-              title: "Mint Time",
-              text: "5 pm UTC",
-            },
-        
-          ],
-          socialLinks: [
-            {
-              icon: telegram,
-              url: "https://t.me/CoreTokyoGarden",
-            },
-           
-            {
-              icon: medium,
-              url: "https://medium.com/@coretokyo",
-            },
-            {
-              icon: twitter,
-              url: "https://twitter.com/coretokyonft",
-            },
-          ],
-        },
+       
        
       ],
     },
