@@ -28,9 +28,9 @@ export default {
         {
           thumb: projectThumb1,
           title: "CoreTokyo",
-          price: "2 SHDW",
+          price: "0.69 Core",
           saleEnd: "Today🔥",
-          coinIcon: coinIcon4,
+          coinIcon: coinIcon1,
           projectDetails: [
             {
               title: "Total Supply",
@@ -75,9 +75,9 @@ export default {
         {
           thumb: projectThumb1,
           title: "CoreTokyo",
-          price: "2 SHDW",
+          price: "0.69 Core",
           saleEnd: "Today🔥",
-          coinIcon: coinIcon4,
+          coinIcon: coinIcon1,
           projectDetails: [
             {
               title: "Total Supply",
