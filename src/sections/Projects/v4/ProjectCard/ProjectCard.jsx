@@ -13,20 +13,20 @@ const ProjectCard = ({
   socialLinks,
 }) => {
   return (
-    <Link href="/projects-details-1" >
+    <Link href="https://coretokyo.openwaters.uk/" >
     <ProjectCardStyleWrapper className="project_item_wrapper">
     
       <div className="project-info d-flex">
-        <Link href="/projects-details-1" >
+        <Link href="https://coretokyo.openwaters.uk/" >
           <img src={thumb.src} alt="project thumb" />
         </Link>
         <div className="project-auother">
           <h4 className="mb-10">
-            <Link href="/projects-details-1">
+            <Link href="https://coretokyo.openwaters.uk/">
               {title}
             </Link>
           </h4>
-          <Link href="/projects-details-1">
+          <Link href="https://coretokyo.openwaters.uk/">
           <div className="dsc">PRICE = {price}</div>
           </Link>
         </div>
@@ -35,7 +35,7 @@ const ProjectCard = ({
       <div className="project-content">
         
         <div className="project-header d-flex justify-content-between align-items-center">
-      <Link href="/projects-details-1">
+      <Link href="https://coretokyo.openwaters.uk/">
 
           <div className="heading-title">
 
@@ -44,7 +44,7 @@ const ProjectCard = ({
           </div>
           </Link>
           <div className="project-icon">
-          <Link href="/projects-details-1">
+          <Link href="https://coretokyo.openwaters.uk/">
             <img src={coinIcon.src} alt="coin icon" />
             </Link>
           </div>
@@ -73,7 +73,7 @@ const ProjectCard = ({
 
 
     
-      <Link href="/projects-details-1" >
+      <Link href="https://coretokyo.openwaters.uk/" >
       <CardHover />
       </Link>
 
